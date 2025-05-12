@@ -1,6 +1,3 @@
-**IMPORTANT NOTE**: This is more an exercice for me to learn how to make installable packages than an actual useful repo.
-Also, it is not finished, so expect some errors and a lot of missing stuff.
-Anyway, it works so hey, why not use it if you need it :)
 
 # cpp_python_socket
 Simple TCP/IP socket comunication wrapper between c++ and Python for IPC.
